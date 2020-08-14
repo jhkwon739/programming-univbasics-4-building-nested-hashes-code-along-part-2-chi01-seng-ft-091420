@@ -62,7 +62,8 @@ def add_characters
    # Code your solution here:
     epic_tragedy[:montague][:additonal_characters] = 
       [{name: "Prince Escalus"}, {name: "Apothecary"}]
-
+    epic_tragedy[:capulet][:additonal_characters] = 
+      [{name: "Prince Escalus"}, {name: "Apothecary"}]
 
 
 
